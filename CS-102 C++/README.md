@@ -32,3 +32,49 @@ int main() {
 
 If you define your new custom function above the main function in the .cpp file the compiler already knows it exists and can alter the flow of control.
 If you prefer to keep your main function at the top of the .cpp file because its easier to find or looks better there, you can put a cheat at the top of the file to let the compiler know that the function definition comes later.  This cheat is called a function prototype
+
+```c++
+//helloworld.cpp 
+#include <iostream> 
+using namespace std;  
+
+void print_me( ); //prototype
+
+int main() 
+{
+   print_me();
+   return 0;
+}
+
+void print_me( )
+{
+   std::cout << "Hello World\n";
+}
+/*
+Hello World
+*/
+```
+You have to name the prototype and IF it has an argument in the function make sire to also add the data type
+
+
+```c++
+//helloworld.cpp 
+#include <iostream> 
+using namespace std;  
+
+void print_me(string); //prototype
+
+int main() 
+{
+   print_me();
+   return 0;
+}
+
+void print_me(string hello)
+{
+   std::cout << hello;
+}
+/*
+Whatever the user wants to add as a parameter
+*/
+```
