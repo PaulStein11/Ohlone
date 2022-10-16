@@ -11,8 +11,10 @@ Declared functions are not executed immediately. They are "saved for later use",
 To call a function, write the function's name followed by two parentheses ( ) and a semicolon ;
 
 ### Example:
+
+<sup> 
 // Create a function
-<sup> #include <iostream> 
+#include <iostream> 
 using namespace std;
 void myFunction() {
    cout << "I just got executed!";
