@@ -15,41 +15,49 @@ Date: 11/12/22
 using namespace std;
 
 // LOGIC FUNCTIONS
+
+// Function asking to enter values >= 0 and validate input
 double getSales(double& sales)
 {
    do
    {
       cin.clear();
-      cout << "Enter a value (>=0): "; // Repeat prompt asking sales value
+      cout << "Enter a value (>=0): ";
       cin >> sales;
 
    } while (sales < 0);
    
    return sales;
 }
+
+// Function to get the MAX sales value from array
 double maxSales(double monthlySales[], int size)
 {
-   double maxMonthlySales; // Declare variable to store MAX value
-   //Iterate over array and compare MAX values
+   // Declare variable to store MAX value
+   double maxMonthlySales; 
+   //Iterate over array
    for (int i = 0; i <= size; i++)
    {
       if(monthlySales[i] > maxMonthlySales)
       {
-         // Replace variable for highest value of the array
+         // Store MAX value
          maxMonthlySales = monthlySales[i]; 
       }
    }
    return maxMonthlySales;
 }
+
+// Function to get the MIN sales value from array
 double minSales(double monthlySales[], int size)
 {
-   double minMonthlySales; // Declare variable to store MAX value
-   //Iterate over array and compare MAX values
+   // Declare variable to store MIN value
+   double minMonthlySales; 
+   //Iterate over array
    for (int i = 0; i <= size; i++)
    {
       if(monthlySales[i] < minMonthlySales)
       {
-         // Replace variable for highest value of the array
+         // Store MIN value
          minMonthlySales = monthlySales[i]; 
       }
    }
@@ -58,7 +66,7 @@ double minSales(double monthlySales[], int size)
 
 int main ()
 {  
-   // Declaring values
+   // Declaring variables
    const int ARRAY_SIZE = 11;
    double monthlySales[ARRAY_SIZE];
    double sales;
@@ -70,15 +78,16 @@ int main ()
    cout << "**** YEARLY SALES CALCULATOR ****" << endl;
    cout << "Let's calculate MAX and MIN of the year" << endl;
 
-   // For loop to iterate the number of time of the array size
+   // For loop to iterate the number of times of the array size
    for (int i = 0; i <= sizeof(monthlySales)/sizeof(monthlySales[0]); i++)
    {
       monthlySales[i] = getSales(sales);
    }
    // Functions to obtain MAX and MIN from array values
+   // Storing returned values into variables
    maxValue = maxSales(monthlySales, ARRAY_SIZE);
    minValue = minSales(monthlySales, ARRAY_SIZE);
-
+   // Return MAX and MIN value with precision of 2 decimales
    cout << "The MAX monthly sales value is: $" 
    << fixed << setprecision(2) << maxValue << endl;
    cout << "The MIN monthly sales value is: $" 
