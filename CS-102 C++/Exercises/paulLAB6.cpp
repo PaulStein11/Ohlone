@@ -15,42 +15,46 @@ Date: 11/27/22
 using namespace std;
 
 // PROTOTYPES
-int getSize(int& number);
-int *arrayAllocator(int numberSelected); 
+int getSize(int number);
+int *arrayAllocator(int arraySize);
+int getValue();
 
 int main()
 {
 
    // Variable definitions
-   int number, arraySize;
+   int number;
+   int size;
+   int* p;
+   int count = 0;
 
    // Intro presenting the app and it's functionality
    cout << "**** FIND YOUR LUCKY NUMBER ****" << endl;
 
-   arraySize = getSize(number);
-   cout << "value is " << arraySize << endl;
+   size = getSize(number);
+   cout << "value is " << size << endl;
 
-   
-    cout << *arrayAllocator(arraySize) << endl;
-      // catches value from function and stores it each time
-      //getValue()
+   p = arrayAllocator(size);
 
+   cout << "Here are the values of the lucky array: " << endl;
 
-   
-   // Loop the number of times needed getting the dynamic array of values?
-   /*for(int i = 0; i <= arraySize; i++)
+   for(int k = 0; k < size; k++)
    {
-      
-   }*/
+      cout << "Lucky number " << k + 1 << " has the value " << p[k] << endl;
+      count += p[k];
+   }
+   delete [] p;
 
+   cout << "Your GRAND lucky number is: " << count << endl;
 
    return 0;
 
 }
 
-int getSize(int& number)
+int getSize(int number)
 {
-   // Declaring local variables
+   // Ask user to enter values in specific range
+   // Loop over until this is achieved
    do
    {
        cin.clear();
@@ -62,25 +66,30 @@ int getSize(int& number)
    return number;
 }
 
-int* arrayAllocator(int arrayNumber)
+int* arrayAllocator(int arraySize)
 {
-   int* myDynamicArray;
-   int value;
-   myDynamicArray = new int[arrayNumber];
+   int* myArray;
+   myArray = new int[arraySize];
 
-   cout << "Time to pick your 2 lucky numbers [5..10]" << endl;
+   cout << "Time to pick your " << arraySize << " lucky numbers [5..10]" << endl;
 
-   for(int k = 1; k <= arrayNumber; k++)
+   for(int i = 0; i < arraySize; i++)
    {
-      do
+      myArray[i] = getValue();
+   }
+
+   return myArray;
+}
+
+int getValue()
+{
+   int value;
+   do
       {
          cin.clear();
          cout << "Enter a lucky number [5..10]: ";
          cin >> value;
       } while (value < 5 || value > 10);
-
-      value = myDynamicArray[k];
-   }
 
    return value;
 }
