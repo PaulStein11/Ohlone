@@ -15,7 +15,6 @@ Date: 11/12/22
 using namespace std;
 
 // LOGIC FUNCTIONS
-
 // Function asking to enter values >= 0 and validate input
 double getSales(double& sales)
 {
@@ -24,9 +23,8 @@ double getSales(double& sales)
       cin.clear();
       cout << "Enter a value (>=0): ";
       cin >> sales;
-
    } while (sales < 0);
-   
+
    return sales;
 }
 
@@ -63,7 +61,7 @@ double minSales(double monthlySales[], int size)
    }
    return minMonthlySales;
 }
-
+// MAIN FUNCTION
 int main ()
 {  
    // Declaring variables
