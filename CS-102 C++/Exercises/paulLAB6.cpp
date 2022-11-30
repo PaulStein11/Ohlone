@@ -14,7 +14,7 @@ Date: 11/27/22
 
 using namespace std;
 
-// PROTOTYPES
+// FUNCTION PROTOTYPES
 int getSize(int number);
 int *arrayAllocator(int arraySize);
 int getValue();
@@ -22,39 +22,42 @@ int getValue();
 int main()
 {
 
-   // Variable definitions
+   // // Declare variables and pointer
    int number;
    int size;
    int* p;
-   int count = 0;
+   int luckyNumber  = 0;
 
    // Intro presenting the app and it's functionality
    cout << "**** FIND YOUR LUCKY NUMBER ****" << endl;
 
+   // Calling function to get array size
    size = getSize(number);
-   cout << "value is " << size << endl;
-
+   // Calling function to get dynamic array
    p = arrayAllocator(size);
 
    cout << "Here are the values of the lucky array: " << endl;
 
+   // For loop to iterate over the dynamic array
    for(int k = 0; k < size; k++)
    {
       cout << "Lucky number " << k + 1 << " has the value " << p[k] << endl;
-      count += p[k];
+      luckyNumber += p[k]; //  Store values to get the lucky number
    }
+   // Release memory from dynamic array
    delete [] p;
 
-   cout << "Your GRAND lucky number is: " << count << endl;
+   // Print out lucky number when adding values on dynamic array
+   cout << "Your GRAND lucky number is: " << luckyNumber << endl;
 
    return 0;
 
 }
 
+// FUNCTIONS
+// 1# Ask user to enter values in specific range to create the array size
 int getSize(int number)
 {
-   // Ask user to enter values in specific range
-   // Loop over until this is achieved
    do
    {
        cin.clear();
@@ -65,22 +68,23 @@ int getSize(int number)
 
    return number;
 }
-
+// 2# Pointer function completes the array in runtime
 int* arrayAllocator(int arraySize)
 {
-   int* myArray;
-   myArray = new int[arraySize];
+   int* myArray; // Inetger pointer variable
+   myArray = new int[arraySize]; // initializes new memory location
 
-   cout << "Time to pick your " << arraySize << " lucky numbers [5..10]" << endl;
+   cout << "Time to pick your " << arraySize <<
+   " lucky numbers [5..10]" << endl;
 
    for(int i = 0; i < arraySize; i++)
    {
-      myArray[i] = getValue();
+      myArray[i] = getValue(); // Stores values into pointer array
    }
 
    return myArray;
 }
-
+// 3# Ask user to enter values in specific range for the dynamic array
 int getValue()
 {
    int value;
