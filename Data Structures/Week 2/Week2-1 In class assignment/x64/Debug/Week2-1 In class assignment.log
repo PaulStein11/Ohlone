@@ -1,0 +1,24 @@
+﻿  menu.cpp
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(11,1): error C2653: 'Menu': is not a class or namespace name
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(11,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(13,1): warning C4508: 'Menu': function should return a value; 'void' return type assumed
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(15,6): error C2653: 'Menu': is not a class or namespace name
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(17,4): error C2065: 'options': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(20,6): error C2653: 'Menu': is not a class or namespace name
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(20,12): error C2270: 'display': modifiers not allowed on nonmember functions
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(22,24): error C2065: 'options': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(24,32): error C2065: 'options': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(28,5): error C2653: 'Menu': is not a class or namespace name
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(28,11): error C2270: 'get_input': modifiers not allowed on nonmember functions
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(36,32): error C2065: 'options': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(42,9): error C2146: syntax error: missing ';' before identifier 'main_menu'
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(42,4): warning C4551: function call missing argument list
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(42,9): error C2065: 'main_menu': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(43,4): error C2065: 'main_menu': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(44,4): error C2065: 'main_menu': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(45,4): error C2065: 'main_menu': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(46,4): error C2065: 'main_menu': undeclared identifier
+C:\Users\pable\Documents\Ohlone\Data Structures\Downloaded files\menu.cpp(47,16): error C2065: 'main_menu': undeclared identifier
+  time.cpp
+  main.cpp
+  Generating Code...

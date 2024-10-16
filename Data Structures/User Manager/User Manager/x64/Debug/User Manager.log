@@ -1,0 +1,17 @@
+﻿  dateTime.cpp
+C:\Users\pable\Documents\Ohlone\Data Structures\User Manager\User Manager\dateTime.cpp(26,31): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  user.cpp
+C:\Users\pable\Documents\Ohlone\Data Structures\User Manager\User Manager\user.cpp(108,14): error C2084: function 'std::string User::getCreateDT(void) const' already has a body
+      C:\Users\pable\Documents\Ohlone\Data Structures\User Manager\User Manager\user.cpp(58,14):
+      see previous definition of 'User::getCreateDT'
+  
+C:\Users\pable\Documents\Ohlone\Data Structures\User Manager\User Manager\user.cpp(112,14): error C2084: function 'std::string User::getLogOutDT(void) const' already has a body
+      C:\Users\pable\Documents\Ohlone\Data Structures\User Manager\User Manager\user.cpp(62,14):
+      see previous definition of 'User::getLogOutDT'
+  
+C:\Users\pable\Documents\Ohlone\Data Structures\User Manager\User Manager\user.cpp(116,14): error C2084: function 'std::string User::getLoginDT(void) const' already has a body
+      C:\Users\pable\Documents\Ohlone\Data Structures\User Manager\User Manager\user.cpp(66,14):
+      see previous definition of 'User::getLoginDT'
+  
+  userMenu.cpp
+  Generating Code...

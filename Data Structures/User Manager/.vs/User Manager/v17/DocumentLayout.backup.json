@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\userMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\userMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\dateTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\dateTime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menuOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\menuOption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\userMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\userMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menuOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\menuOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\User Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\User Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17AE1397-6205-400A-86E9-4203E39E77E2}|User Manager\\User Manager.vcxproj|solutionrelative:User Manager\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dateTime.h",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\dateTime.h",
+              "RelativeDocumentMoniker": "User Manager\\dateTime.h",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\dateTime.h",
+              "RelativeToolTip": "User Manager\\dateTime.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T02:16:30.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "date.h",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\date.h",
+              "RelativeDocumentMoniker": "User Manager\\date.h",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\date.h",
+              "RelativeToolTip": "User Manager\\date.h",
+              "ViewState": "AgIAAAcAAAAAVjMzMzP7vxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T02:02:25.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "time.h",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\time.h",
+              "RelativeDocumentMoniker": "User Manager\\time.h",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\time.h",
+              "RelativeToolTip": "User Manager\\time.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T01:28:43.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "time.cpp",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\time.cpp",
+              "RelativeDocumentMoniker": "User Manager\\time.cpp",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\time.cpp",
+              "RelativeToolTip": "User Manager\\time.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T01:40:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user.cpp",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\user.cpp",
+              "RelativeDocumentMoniker": "User Manager\\user.cpp",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\user.cpp",
+              "RelativeToolTip": "User Manager\\user.cpp",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAQwHMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T22:36:24.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "menuOption.cpp",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menuOption.cpp",
+              "RelativeDocumentMoniker": "User Manager\\menuOption.cpp",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menuOption.cpp",
+              "RelativeToolTip": "User Manager\\menuOption.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T00:47:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.h",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\user.h",
+              "RelativeDocumentMoniker": "User Manager\\user.h",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\user.h",
+              "RelativeToolTip": "User Manager\\user.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T22:37:03.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\userMenu.cpp",
+              "RelativeDocumentMoniker": "User Manager\\userMenu.cpp",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\userMenu.cpp",
+              "RelativeToolTip": "User Manager\\userMenu.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T23:52:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "userMenu.h",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\userMenu.h",
+              "RelativeDocumentMoniker": "User Manager\\userMenu.h",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\userMenu.h",
+              "RelativeToolTip": "User Manager\\userMenu.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAApwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T15:47:09.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\User Manager.cpp",
+              "RelativeDocumentMoniker": "User Manager\\User Manager.cpp",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\User Manager.cpp",
+              "RelativeToolTip": "User Manager\\User Manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T01:27:59.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "menuOption.h",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menuOption.h",
+              "RelativeDocumentMoniker": "User Manager\\menuOption.h",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menuOption.h",
+              "RelativeToolTip": "User Manager\\menuOption.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T00:46:40.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menu.cpp",
+              "RelativeDocumentMoniker": "User Manager\\menu.cpp",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menu.cpp",
+              "RelativeToolTip": "User Manager\\menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T00:23:16.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menu.h",
+              "RelativeDocumentMoniker": "User Manager\\menu.h",
+              "ToolTip": "C:\\Users\\pable\\Documents\\Ohlone\\Data Structures\\User Manager\\User Manager\\menu.h",
+              "RelativeToolTip": "User Manager\\menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T00:15:55.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

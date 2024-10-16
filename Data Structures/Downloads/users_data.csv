@@ -1,0 +1,5 @@
+ID,Username,Password,Role,Email,CreateDateTime,LoginDateTime,LogoutDateTime
+1000,admin,password,1,admin@ohlone.edu,1970-01-01 00:00:00,1970-01-01 00:00:00,1970-01-01 00:00:00
+1001,guess,guess,-1,guess@ohlone.edu,1970-01-01 00:00:00,1970-01-01 00:00:00,1970-01-01 00:00:00
+1002,john,doe,2,jdoe@ohlone.edu,1970-01-01 00:00:00,1970-01-01 00:00:00,1970-01-01 00:00:00
+1003,Pablo,Bonfire,2,pablerillas@gmail.com,1970-01-01 00:00:00,1970-01-01 00:00:00,1970-01-01 00:00:00

@@ -1,0 +1,33 @@
+﻿  date.cpp
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.cpp(87,12): error C2039: '+': is not a member of 'Date'
+      C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.h(8,7):
+      see declaration of 'Date'
+  
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.cpp(87,12): error C2270: '+': modifiers not allowed on nonmember functions
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.cpp(91,11): error C2039: '-': is not a member of 'Date'
+      C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.h(8,7):
+      see declaration of 'Date'
+  
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.cpp(91,11): error C2270: '-': modifiers not allowed on nonmember functions
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.cpp(95,12): error C2511: 'bool Date::operator ==(Date) const': overloaded member function not found in 'Date'
+      C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.h(8,7):
+      see declaration of 'Date'
+  
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.cpp(99,12): error C2511: 'bool Date::operator !=(Date) const': overloaded member function not found in 'Date'
+      C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.h(8,7):
+      see declaration of 'Date'
+  
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.cpp(103,12): error C2511: 'bool Date::operator <(Date) const': overloaded member function not found in 'Date'
+      C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\date.h(8,7):
+      see declaration of 'Date'
+  
+  datetime.cpp
+  time.cpp
+  week3 assignment 2.cpp
+  Generating Code...
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\datetime.cpp(70,1): error C4716: 'DateTime::operator<': must return a value
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\datetime.cpp(62,1): error C4716: 'DateTime::operator!=': must return a value
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\datetime.cpp(58,1): error C4716: 'DateTime::operator==': must return a value
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\datetime.cpp(66,1): error C4716: 'DateTime::operator>': must return a value
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\datetime.cpp(74,1): error C4716: 'DateTime::operator>=': must return a value
+C:\Users\pable\Documents\Ohlone\Data Structures\Week3\Assignemnt 2\week3 assignment 2\week3 assignment 2\datetime.cpp(78,1): error C4716: 'DateTime::operator<=': must return a value
